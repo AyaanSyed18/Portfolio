@@ -105,14 +105,19 @@
 @media (max-width: 599px) {
   .card-grid {
     grid-template-columns: 1fr;
-    width: 90%;
-    margin: 0 auto;
-    padding: 0.5em;
+    width: 100%;
+    margin: 0;
+    padding: 1.5em 1em;
+    height: auto !important;
+    min-height: auto !important;
+    gap: 1.5em;
   }
 
   .magic-bento-card {
     width: 100%;
-    min-height: 180px;
+    min-height: auto;
+    aspect-ratio: auto !important;
+    padding: 1.5em;
   }
 }
 
@@ -409,11 +414,15 @@
 @media (max-width: 768px) {
   .bento-section-2-wrapper {
     grid-template-columns: 1fr;
-    height: auto;
+    height: auto !important;
+    min-height: auto !important;
+    padding: 1.5em 1em;
+    gap: 1.5em;
   }
 
   .bento-section-2-wrapper .magic-bento-card {
-    min-height: 60vh;
+    min-height: auto;
+    height: auto !important;
   }
 
   .bento-s2-skill-grid {

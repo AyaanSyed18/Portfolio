@@ -36,12 +36,12 @@ export default function Home() {
         `}
       >
         {/* Section 1 — Main 3-card Bento */}
-        <div className="h-screen flex items-center justify-center p-6 w-full">
+        <div className="min-h-screen md:h-screen flex items-center justify-center p-4 md:p-6 w-full">
           <MagicBento />
         </div>
 
         {/* Section 2 — Two equal full-height Bento cards */}
-        <div className="h-screen flex items-center justify-center p-6 w-full">
+        <div className="min-h-screen md:h-screen flex items-center justify-center p-4 md:p-6 w-full">
           <BentoSection2 />
         </div>
       </div>
