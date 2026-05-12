@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Ayaan Syed | Cinematic Bento Portfolio
 
-## Getting Started
+A high-performance, cinematic portfolio designed to celebrate 3 years of professional experience in Full-Stack Development and UI/UX Engineering. Built with a focus on immersive 3D interactions and a modern bento-grid layout.
 
-First, run the development server:
+## 🚀 Technologies
+- **Framework**: Next.js 16 (App Router)
+- **3D Engine**: Spline (WebGL)
+- **Styling**: Tailwind CSS
+- **Animations**: GSAP & Framer Motion
+- **Icons**: Skillicons.dev
+- **Database**: MongoDB (Atlas)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Key Features
+- **Cinematic 3D Hero**: An interactive 3D scene that transitions seamlessly into the portfolio content.
+- **Dynamic Bento Grid**: A multi-stage layout (MagicBento) that organizes professional information, projects, and skills into an aesthetic, interactive grid.
+- **RAW Showcase**: A dedicated highlight of the 'RAW' cold-pressed juice project, featuring custom image masking and glassmorphic UI.
+- **Responsive Design**: Optimized for all devices, from high-end desktops to mobile screens.
+- **Particle Effects**: Custom GSAP-driven particle systems for each bento card.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Getting Started
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. **Run Locally**:
+   ```bash
+   npm run dev
+   ```
 
-## Learn More
+3. **Build for Production**:
+   ```bash
+   npm run build
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+## 👨‍💻 Author
+**Ayaan Syed** - *Full-Stack Developer & UI/UX Specialist*
+Celebrating 3 years of crafting digital experiences.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+Built with ❤️ by Ayaan Syed.
