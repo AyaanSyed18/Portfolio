@@ -175,7 +175,7 @@ const BentoSection2 = ({ glowColor = DEFAULT_GLOW_COLOR }) => {
         </div>
 
         <div className="magic-bento-card__content bento-s2-content">
-          <h2 className="magic-bento-card__title bento-s2-title">Technologies I Use</h2>
+          <h2 className="magic-bento-card__title bento-s2-title">Technologies</h2>
           <p className="magic-bento-card__description">
             A curated set of modern tools I reach for when crafting production-ready experiences.
           </p>
@@ -183,7 +183,7 @@ const BentoSection2 = ({ glowColor = DEFAULT_GLOW_COLOR }) => {
           <div className="bento-s2-skill-grid">
             {[
               { id: 'nextjs', name: 'Next.js', slug: 'nextjs', note: 'App Router & RSC' },
-              { id: 'ts', name: 'TypeScript', slug: 'ts', note: 'Strict mode' },
+              { id: 'ts', name: 'TypeScript', slug: 'ts', note: 'Static Typing' },
               { id: 'react', name: 'React', slug: 'react', note: 'Server + Client' },
               { id: 'tailwind', name: 'Tailwind CSS', slug: 'tailwind', note: 'Utility-first' },
               { id: 'mongodb', name: 'MongoDB', slug: 'mongodb', note: 'Atlas + Mongoose' },

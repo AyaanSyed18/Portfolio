@@ -30,7 +30,7 @@ const cardData = [
   {
     color: '#120F17',
     title: 'About Me',
-    description: 'I am a Full-Stack Developer and UI/UX Engineer dedicated to crafting immersive, high-performance web.\n I specialize in bridging the gap between aesthetic and functionality.',
+    description: 'I am a Full-Stack Developer and UI/UX Engineer.',
     label: 'Profile',
     skills: [
       { name: 'Next.js', slug: 'nextjs' },
@@ -42,7 +42,7 @@ const cardData = [
   {
     color: '#120F17',
     title: 'Connect',
-    description: 'Open for freelance opportunities and collaborative projects. Whether you have a question or just want to say hi, I\'ll try my best to get back to you!',
+    description: 'Feel Free To Connect 😉',
     label: 'Contact',
     links: [
       { name: 'GitHub', url: 'https://github.com/AyaanSyed18', icon: 'github' },
