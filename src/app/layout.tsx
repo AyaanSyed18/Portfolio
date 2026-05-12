@@ -23,9 +23,9 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  title: "Brigaid — Ayaan Syed",
+  title: "Portfolio — Ayaan Syed",
   description:
-    "Creative portfolio and digital experience by Ayaan Syed. Built with cutting-edge 3D web technology.",
+    "Portfolio website of Ayaan Syed. Built with cutting-edge 3D web technology.",
 };
 
 export default function RootLayout({
