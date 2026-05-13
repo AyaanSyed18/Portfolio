@@ -42,7 +42,7 @@ const cardData = [
   {
     color: '#120F17',
     title: 'Connect',
-    description: 'Feel Free To Connect 😉',
+    description: 'Feel Free To Connect I'll Respond In 24 Hours.',
     label: 'Contact',
     links: [
       { name: 'GitHub', url: 'https://github.com/AyaanSyed18', icon: 'github' },
