@@ -30,7 +30,7 @@ const cardData = [
   {
     color: '#120F17',
     title: 'About Me',
-    description: "I’m a 16-year-old Full-Stack Developer and UI/UX Engineer dedicated to building polished, high-performance web applications.",
+    description: "I’m a 16-year-old Full-Stack Developer and UI/UX Engineer.",
     label: 'Profile',
     skills: [
       { name: 'Next.js', slug: 'nextjs' },
@@ -43,7 +43,7 @@ const cardData = [
     color: '#120F17',
     title: 'Connect',
     // Refined and professional connect statement
-    description: "Let’s collaborate on something great. I’m always open to new opportunities and typically respond within 24 hours.",
+    description: "Let’s collaborate on something great. I’m always open to new opportunities.",
     label: 'Contact',
     links: [
       { name: 'GitHub', url: 'https://github.com/AyaanSyed18', icon: 'github' },
